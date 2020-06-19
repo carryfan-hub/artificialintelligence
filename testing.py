@@ -1,0 +1,2 @@
+x="oooooo"
+print(x)
