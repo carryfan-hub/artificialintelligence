@@ -6,5 +6,7 @@ v="bye"
 print(v)
 o=2
 print(0)
-f="3"
+f=3
 print(f)
+g = o+f
+print(g)
