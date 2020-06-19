@@ -6,4 +6,5 @@ v="bye"
 print(v)
 o=2
 print(0)
-
+f="3"
+print(f)
